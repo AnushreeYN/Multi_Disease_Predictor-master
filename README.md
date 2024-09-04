@@ -1,4 +1,4 @@
-...
+
 # Multiple Disease Predictor
 
 ## About
